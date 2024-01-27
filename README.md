@@ -1,4 +1,4 @@
-# cpp_Module03:
+# Inheritance:
 ## Overview
 
 Module_03 focuses on the fundamental concept of inheritance in C++, which is a core feature of object-oriented programming (OOP). Inheritance allows us to create new classes (derived or child classes) that inherit attributes and behaviors from existing classes (base or parent classes). This powerful mechanism promotes code reuse and the creation of hierarchical class structures.
